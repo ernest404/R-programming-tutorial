@@ -1,0 +1,5 @@
+fname lname age
+Ernest Muisyo 25
+Anthony Mbithi 34
+Jackline Mueni 58
+Dismas Musyoki 58
